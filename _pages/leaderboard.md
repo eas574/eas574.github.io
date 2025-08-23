@@ -4,17 +4,18 @@ title: "Course Leaderboard"
 author_profile: true
 ---
 
-# Example Leaderboard
+### This is an example leaderboard
+## To sign up for your pseudonym, [please use this form](https://forms.gle/L5gFPkj795UiygS48)
 
 | Anonymized Name   | Theory Score | Practical Score |
 |-------------------|--------------|-----------------|
-| Harry Potter      | 92           | 89              |
+| Josh Allen        | 92           | 89              |
 | Aang              | 88           | 94              |
-| Hermione Granger  | 95           | 90              |
+| James Cook        | 95           | 90              |
 | Katara            | 85           | 88              |
-| Ron Weasley       | 80           | 83              |
+| Magnus Carlsen    | 80           | 83              |
 | Zuko              | 87           | 85              |
-| Draco Malfoy      | 78           | 75              |
-| Toph Beifong      | 90           | 92              |
-| Luna Lovegood     | 82           | 80              |
+| Patrick Mahomes   | 78           | 75              |
+| Toph Beifong      | 80           | 92              |
+| Joe Root          | 82           | 80              |
 | Sokka             | 76           | 78              |
