@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /schedule/
 title: "Course Schedule"
 author_profile: true
 redirect_from: 
