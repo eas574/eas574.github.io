@@ -13,6 +13,9 @@ main:
     
   - title: "Course Notes and Code"
     url: /notes/
+    
+  - title: "Leaderboard"
+    url: /leaderboard/  
 
   - title: "Resources"
     url: /resources/    
