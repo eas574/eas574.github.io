@@ -1,3 +1,9 @@
+---
+permalink: /resources/
+title: "Course Schedule"
+author_profile: true
+---
+
 You would highly benefit from leveraging the following resources to understand several of the concepts taught in this class. 
 
 ### Books
