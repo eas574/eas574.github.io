@@ -25,8 +25,8 @@ author:
   avatar           : "ub_logo.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Fall 2025"
-  location         : "Buffalo, NY"
+  bio              : #"Fall 2025"
+  location         : #"Buffalo, NY"
   employer         : 
   uri              : # URL
   email            : #
