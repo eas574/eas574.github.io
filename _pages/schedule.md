@@ -5,4 +5,4 @@ author_profile: true
 ---
 
 
-![Image of Course Schedule](_pages/course_schedule.png "Course Schedule")
+![Image of Course Schedule](ub_logo.png "Course Schedule")
