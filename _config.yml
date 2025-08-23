@@ -22,12 +22,12 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ub_logo.png"
+  avatar           : "bio.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : #"Fall 2025"
-  location         : #"Buffalo, NY"
-  employer         : 
+  bio              : "Fall 2025 Iteration of Intro to ML"
+  location         : "Buffalo, NY"
+  employer         : "university at Buffalo"
   uri              : # URL
   email            : #
 
@@ -103,7 +103,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark"
+    colorscheme          :  "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
