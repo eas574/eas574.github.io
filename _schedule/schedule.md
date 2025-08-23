@@ -6,4 +6,6 @@ redirect_from:
   - /schedule/
 ---
 
-![Image of Course Schedule](images/schedule.jpg "Course Schedule")
+testing if this is working at all
+
+![Image of Course Schedule](eas574.github.io/images/schedule.jpg "Course Schedule")
