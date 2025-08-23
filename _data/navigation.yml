@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+s# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -8,11 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Contents"
-    url: /publications/
+  - title: "Course Notes and Code"
+    url: /notes/
 
   - title: "Resources"
-    url: /talks/    
+    url: /code/    
 
   # - title: "Teaching"
   #   url: /teaching/    
