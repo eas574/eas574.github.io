@@ -6,10 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# EAS 574  
-## Introduction to Machine Learning  
-**Fall 2025**
-
 
 ## Course Information
 **Instructors:** Adithya Narayanan  
@@ -21,20 +17,17 @@ Email: at buffalo.edu
 **Grader and Course Assistant:** Vamsi Sai Garapati  
 Email: at buffalo.edu  
 
-**Course Website:** eas574.github.io  
+**Course Website:** [eas574.github.io](eas574.github.io)  
 
 Please refer to the HUB Student Center for most up-to-date information on course meeting times and locations. 
 
 
-
 ## Course Description
-This offering of Introduction to Machine Learning offers a peek into a variety of algorithms, methodologies, and concepts commonly grouped together to form the area of Machine Learning. Students will dive into understanding intricacies of several such paradigms, while being assessed rigorously to ensure clarity in the inner workings of concepts covered in the course. A detailed list of topics and their tentative dates of coverage are included supplied in the course schedule tab.
-
+This offering of Introduction to Machine Learning offers a peek into a variety of algorithms, methodologies, and concepts commonly grouped together to form the area of Machine Learning. Students will dive into understanding intricacies of several such paradigms, while being assessed rigorously to ensure clarity in the inner workings of concepts covered in the course. A detailed list of topics and their tentative dates of coverage are included supplied in the [course schedule tab](https://eas574.github.io/schedule/).
 
 
 ## Course Material
 Any requisite material will be either made available through the course website.
-
 
 
 ## Assessment and Evaluation
@@ -51,7 +44,7 @@ In certain instances, or circumstances which prevent a student from completing c
 
 
 ## Academic Integrity Policy
-Academic integrity is a fundamental university value. Through the honest completion of academic work, students sustain the integrity of the university and of themselves while facilitating the university's imperative for the transmission of knowledge and culture based upon the generation of new and innovative ideas. For more information, please refer to the Graduate Academic Integrity policy.
+Academic integrity is a fundamental university value. Through the honest completion of academic work, students sustain the integrity of the university and of themselves while facilitating the university's imperative for the transmission of knowledge and culture based upon the generation of new and innovative ideas. For more information, please refer to the [Graduate Academic Integrity policy](https://www.buffalo.edu/grad/succeed/current-students/policy-library.html#academic-integrity).
 
 ---
 
