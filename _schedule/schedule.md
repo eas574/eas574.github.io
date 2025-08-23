@@ -6,4 +6,4 @@ redirect_from:
   - /schedule/
 ---
 
-![Course Schedule](image-url "images/schedule.jpg")
+![Image of Course Schedule](images/schedule.jpg "Course Schedule")
