@@ -5,4 +5,4 @@ author_profile: true
 ---
 
 
-![Image of Course Schedule](schedule.jpg "Course Schedule")
+![Image of Course Schedule](course_schedule.png "Course Schedule")
