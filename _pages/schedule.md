@@ -79,6 +79,8 @@ author_profile: true
 |----------|-------|-------------------------------------------------------------------|
 | Tuesday  | 12/2  | Fundamentals of Neural Networks                                   |
 |          |       | **Extra Material (not included in tests or assessments): Bayesian Interpretation of Regression and Classification** |
-| Thursday | 12/4  | Take home exam due by 12/14                                      |
+| Thursday | 12/4  |  *(cont.)*                                                        |
+|          |       | Take home exam due by 12/14                                       |
+
 
 ---
