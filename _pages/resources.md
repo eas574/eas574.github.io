@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: "Course Schedule"
+title: "Resources"
 author_profile: true
 ---
 
