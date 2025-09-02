@@ -13,6 +13,9 @@ author_profile: true
 | 8/28  | [Linear Models, Errors, Analytical Solutions](https://drive.google.com/file/d/1V46_ve20u8a82TPQNHO_ThuCrCOKiVxC/view?usp=sharing)| No code on this day |
 | 9/2  | Linear Models, Gradient Descent | [Gradient Descent Demo](https://colab.research.google.com/drive/1wEjeh8_MZyvb4o5mdLXlZfpa4UEV9gSc?usp=sharing)<br> [Advertising Data Regression Modeling for INFERENCE](https://colab.research.google.com/drive/10wZZPwJpsGCjnbxn0XJpLHZgRfIksU76?usp=sharing) <br> [Polynomial Regression modeling for INFERENCE](https://colab.research.google.com/drive/13ZdKaftMxv704YhWGZxSsIP0ecikpCjk?usp=sharing)
 
+
+**Students are allowed to use AI agents in their practical assesments. The course emphasizes inference of results and understanding concepts such as modeling choices.**
+
 Acknowledgements: 
 
 Advertising Dataset: James, Gareth; Witten, Daniela; Hastie, Trevor; Tibshirani, Robert. An Introduction to Statistical Learning with Applications in Python (ISLP). Springer, 2021.
