@@ -14,7 +14,7 @@ author_profile: true
 | 9/2  | Linear Models, Gradient Descent | [Gradient Descent Demo](https://colab.research.google.com/drive/1wEjeh8_MZyvb4o5mdLXlZfpa4UEV9gSc?usp=sharing)<br> [Advertising Data Regression Modeling for INFERENCE](https://colab.research.google.com/drive/10wZZPwJpsGCjnbxn0XJpLHZgRfIksU76?usp=sharing) <br> [Polynomial Regression modeling for INFERENCE](https://colab.research.google.com/drive/13ZdKaftMxv704YhWGZxSsIP0ecikpCjk?usp=sharing)
 
 
-**Students are allowed to use AI agents in their practical assesments. The course emphasizes inference of results and understanding concepts such as modeling choices.**
+**Students are allowed to use AI agents in their practical assesments to generate code or ideas. The course emphasizes inference of results and understanding concepts such as modeling choices which will have to be justified in the outcomes/deliverables. It is to note, however, that AI agents are only useful when the human in the loop is able to verify if the code being written.**
 
 Acknowledgements: 
 
