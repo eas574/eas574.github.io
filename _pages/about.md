@@ -16,7 +16,7 @@ TBA
 
 **Teaching Assistant:** Anip Kumar Paul  
 Email: *anipkuma* at buffalo.edu  
-Office Hours: 
+Office Hours: <br>
 Thursdays, 2:30pm - 4:30pm (Zoom link will to be shared via UBLearns for Data Privacy)
 In person office hours to be announced soon.
 
@@ -24,7 +24,7 @@ In person office hours to be announced soon.
 
 **Grader and Course Assistant:** Vamsi Sai Garapati  
 Email: *vamsisai* at buffalo.edu 
-Office Hours: 
+Office Hours: <br>
 Wednesdays, 4:30pm - 6:30pm (Zoom link will to be shared via UBLearns for Data Privacy)
 
 
