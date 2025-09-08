@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
+# Announcement: 3:30pm lectures have been moved to a new classroom effective immediately. We will now meet at Knox 71. 
+
+
+
 ## Course Information
 **Instructors:** Adithya Narayanan  
 Email: adithyan at buffalo.edu
