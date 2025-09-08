@@ -9,24 +9,15 @@ redirect_from:
 
 ## Course Information
 **Instructors:** Adithya Narayanan  
-Email: adithyan at buffalo.edu  
-Office Hours: 
-TBA
-
+Email: adithyan at buffalo.edu
 
 **Teaching Assistant:** Anip Kumar Paul  
 Email: *anipkuma* at buffalo.edu  
-Office Hours: <br>
-Thursdays, 2:30pm - 4:30pm (Zoom link will to be shared via UBLearns for Data Privacy)
-In person office hours to be announced soon.
-
-
 
 **Grader and Course Assistant:** Vamsi Sai Garapati  
 Email: *vamsisai* at buffalo.edu 
-Office Hours: <br>
-Wednesdays, 4:30pm - 6:30pm (Zoom link will to be shared via UBLearns for Data Privacy)
 
+Office Hours have been posted as an announcement on UBLearns/Brightspace for data privacy.
 
 **Course Website:** [eas574.github.io](eas574.github.io)  
 
