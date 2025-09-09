@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-# Announcement: 3:30pm lectures have been moved to a new classroom effective immediately. We will now meet at Knox 71. 
+# Announcement: 3:30pm lectures have been moved to a new classroom effective immediately. We will now meet at Knox 04 (not Knox 71). 
+
 
 
 
