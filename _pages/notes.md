@@ -17,7 +17,12 @@ author_profile: true
 | Date  | Notes                                                                                          | Code           |
 |-------|------------------------------------------------------------------------------------------------|----------------|
 | 9/16  | [Basics of Logistic Regression, Gradient Ascent, and Iterative SOlving for Weights](https://drive.google.com/file/d/1JrWCp6Ln6XQAn2pIWh-brZS8dgZ5ZIJA/view?usp=sharing)| No code on this day |
-| 8/28  | [Likelihood, Log Likelihood, Odds and Log Odds, Mathematics behind Logistic Regression](https://drive.google.com/file/d/1tJBrV4Rz5toQF4tQHNW52LMZGxcAPyOX/view?usp=sharing)| [Basic Logistic Regression Demo - Gradient Ascent and Off The Shelf](https://colab.research.google.com/drive/1I61wjsMI9d1ekp8gOyKOVz1cH6N4KC2P?usp=sharing) |
+| 9/18  | [Likelihood, Log Likelihood, Odds and Log Odds, Mathematics behind Logistic Regression](https://drive.google.com/file/d/1tJBrV4Rz5toQF4tQHNW52LMZGxcAPyOX/view?usp=sharing)| [Basic Logistic Regression Demo - Gradient Ascent and Off The Shelf](https://colab.research.google.com/drive/1I61wjsMI9d1ekp8gOyKOVz1cH6N4KC2P?usp=sharing) |
+
+| Date  | Notes                                                                                          | Code           |
+|-------|------------------------------------------------------------------------------------------------|----------------|
+| 10/7  | [Regression Trees](https://drive.google.com/file/d/1aHJsC6_Jk5UPQvefzaL21MLnSprI8432/view?usp=sharing)| No code on this day |
+| 10/9  | [Clsssification Trees, and Intro to Random Forests](https://drive.google.com/file/d/1bIUSKlZ6Z-L5jv4EMmEsm78CRAc4d3p8/view?usp=sharing)| No code on this day |
 
 
 
@@ -25,8 +30,6 @@ author_profile: true
 
 
 
-
-**Students are allowed to use AI agents in their practical assesments to generate code or ideas. The course emphasizes inference of results and understanding concepts such as modeling choices which will have to be justified in the outcomes/deliverables. It is to note, however, that AI agents are only useful when the human in the loop is able to verify if the code being written.**
 
 Acknowledgements: 
 
