@@ -22,7 +22,9 @@ author_profile: true
 | Date  | Notes                                                                                          | Code           |
 |-------|------------------------------------------------------------------------------------------------|----------------|
 | 10/7  | [Regression Trees](https://drive.google.com/file/d/1aHJsC6_Jk5UPQvefzaL21MLnSprI8432/view?usp=sharing)| No code on this day |
-| 10/9  | [Clsssification Trees, and Intro to Random Forests](https://drive.google.com/file/d/1bIUSKlZ6Z-L5jv4EMmEsm78CRAc4d3p8/view?usp=sharing)| No code on this day |
+| 10/9  | [Clsssification Trees, Bagging, and Intro to Random Forests](https://drive.google.com/file/d/1bIUSKlZ6Z-L5jv4EMmEsm78CRAc4d3p8/view?usp=sharing)| No code on this day |
+| 10/16 | [Random Forests, and Cost Complexity Pruning ](https://drive.google.com/file/d/1e3GYXX7JkSYIVkL7DzSvGhtsS-iZntFy/view?usp=sharing)| No code on this day |
+
 
 
 
