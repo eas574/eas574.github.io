@@ -24,6 +24,10 @@ author_profile: true
 | 10/7  | [Regression Trees](https://drive.google.com/file/d/1aHJsC6_Jk5UPQvefzaL21MLnSprI8432/view?usp=sharing)| No code on this day |
 | 10/9  | [Clsssification Trees, Bagging, and Intro to Random Forests](https://drive.google.com/file/d/1bIUSKlZ6Z-L5jv4EMmEsm78CRAc4d3p8/view?usp=sharing)| No code on this day |
 | 10/16 | [Random Forests, and Cost Complexity Pruning ](https://drive.google.com/file/d/1e3GYXX7JkSYIVkL7DzSvGhtsS-iZntFy/view?usp=sharing)| No code on this day |
+|  | [Example: Building Classification Trees, Author: Vamsi Sai Garapati](https://drive.google.com/file/d/1k29KnLo95rfuMz8u8MUWGWhie3KxJL7j/view?usp=sharing)| |
+|  | [Example: Building Regression Trees, Author: Anip Kumar Paul](https://drive.google.com/file/d/1lXY9CSayJ8jkrk3-tbpTnmpNM99DYX9O/view?usp=sharing)|  |
+
+
 
 
 
