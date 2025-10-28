@@ -4,9 +4,32 @@ title: "Course Schedule"
 author_profile: true
 ---
 
-## **Updated schedule will be posted soon.**
+## **Updated schedule.**
 
 ---
+
+
+| Day      | Date   | Topic                                                                      | Note                                                           |
+|----------|--------|----------------------------------------------------------------------------|----------------------------------------------------------------|
+| Tuesday  | 10/28  | Classification Model Metrics + Wrap Up                                     |                                                                |
+| Thursday | 10/30  | Regression Model Metrics, Bias-Variance Tradeoffs, Regularization          |                                                                |
+|          |        |                                                                            |                                                                |
+| Tuesday  | 11/4   | Theoretical Test                                                           | On Multinomial Logistic + contents of 10/28 and 10/30          |
+| Thursday | 11/6   | Practical Assessment                                                       | Classification/Regression with Model Evaluation                |
+|          |        |                                                                            |                                                                |
+| Tuesday  | 11/11  | Unsupervised Learning + Principal Components                               |                                                                |
+| Thursday | 11/13  | Unsupervised Learning + Principal Components                               |                                                                |
+|          |        |                                                                            |                                                                |
+| Tuesday  | 11/18  | Theoretical Test                                                           | On Unsupervised Learning + Principal Components                |
+| Thursday | 11/20  | Practical Assessment                                                       | On Unsupervised Learning + Principal Components                |
+|          |        |                                                                            |                                                                |
+| Tuesday  | 12/2   | Neural Networks                                                            |                                                                |
+| Thursday | 12/4   | Neural Networks                                                            |                                                                |
+|          |        |                                                                            |                                                                |
+| Tuesday  | 12/5   | Take Home Assignment                                                       | Theory + Practice (two-part assignment - due by 12/12)         |
+|          |        | Extra Material Supplied: Bayesian Interpretations of ML                    |                                                                |
+|          |        | Extra Material Supplied: Support Vector Machines                           |                                                                |
+
 
 ### Block 1
 
