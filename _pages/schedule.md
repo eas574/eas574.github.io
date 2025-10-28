@@ -26,7 +26,7 @@ author_profile: true
 | Tuesday  | 12/2   | Neural Networks                                                            |                                                                |
 | Thursday | 12/4   | Neural Networks                                                            |                                                                |
 |          |        |                                                                            |                                                                |
-| Tuesday  | 12/5   | Take Home Assignment                                                       | Theory + Practice (two-part assignment - due by 12/12)         |
+|   | 12/5   | Take Home Assignment                                                       | Theory + Practice (two-part assignment - due by 12/12)         |
 |          |        | Extra Material Supplied: Bayesian Interpretations of ML                    |                                                                |
 |          |        | Extra Material Supplied: Support Vector Machines                           |                                                                |
 
