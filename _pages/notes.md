@@ -34,6 +34,8 @@ author_profile: true
 | 10/23 | [Multinomial Logistic Regression](https://drive.google.com/file/d/1ZQGDgw8WRYW5GovoDM5pGCPME7yjosVX/view?usp=sharing)| No code on this day |
 | 10/28  | [K-Nearest Neighbors](https://drive.google.com/file/d/1WPCXBfdYhQ6Q3zcDr7e_7BGdmJncI99D/view?usp=sharing)| No code on this day |
 | 10/28  | [Classification Metrics: Precision, Recall, Specificity, F1 Scores](https://drive.google.com/file/d/12d3AUARUeOhmbE-jwi1PuNcAPZ5aib8C/view?usp=sharing)| No code on this day |
+| 10/30  | [Bias, Variance, Augmentations to Linear Regression, Subset Selection, and R2](https://drive.google.com/file/d/12d3AUARUeOhmbE-jwi1PuNcAPZ5aib8C/view?usp=sharing)| No code on this day |
+
 
 
 
