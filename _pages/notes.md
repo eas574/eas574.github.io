@@ -29,9 +29,13 @@ author_profile: true
 Acknowledgements: 
 
 James, Gareth; Witten, Daniela; Hastie, Trevor; Tibshirani, Robert. An Introduction to Statistical Learning with Applications in Python (ISLP). Springer, 2021.
-Statquest by Josh Starmer and Geeksforgeeks for their endless resources and examples
+
+Statquest by Josh Starmer and Geeksforgeeks for their endless resources and examples. 
+
 Perplexity and Gemini for sparring with me every day. 
+
 Dr. Varun Chandola - for his expertly designed 574 course which forms the backbone of this edition. 
+
 Dr. Rachael Hageman Blair - for guidance, and material that helped shape this course.
 
 ____
