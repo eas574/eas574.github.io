@@ -23,6 +23,7 @@ author_profile: true
 | 10/30  | [Bias, Variance, Augmentations to Linear Regression, Subset Selection, and R2](https://drive.google.com/file/d/1nQrxeVKzSnHupDvd_LCbtIetAe18F2AT/view?usp=sharing)               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 11/11  | [Fundamentals of Principal Components](https://drive.google.com/file/d/1JfP76ruCBCOYUk0XUvOBcaceGrh3FHkN/view?usp=sharing)                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 11/13  | [Clustering: Heirarchical, k-means, and Spectral Clustering Methods](https://drive.google.com/file/d/1f0Pm3H-gQ8uHMd_55lfQsqL7jc6mPsax/view?usp=sharing)                        | [PCA + Clustering: k-Means vs Spectral](https://colab.research.google.com/drive/1mZOl0WJGiIsrrZuFFA10sEyZ9imTE-5d?usp=sharing)                                                                                                                                                                                                                                                                                             |
+|   | [IBM Blog: What is Unsupervised Learning?](https://www.ibm.com/think/topics/unsupervised-learning)                        |                                                                                                                                            |
 
 
 
@@ -37,6 +38,8 @@ Perplexity and Gemini for sparring with me every day.
 Dr. Varun Chandola - for his expertly designed 574 course which forms the backbone of this edition. 
 
 Dr. Rachael Hageman Blair - for guidance, and material that helped shape this course.
+
+Image credits provided upon request - images used from publicly available educational resources. 
 
 ____
 I attempt to credit as much of the creators of material such as examples used in this class in class, and through notes. If I am missing credits, I would be happy to identify and supply any information about the original creator along wiith any credits due. 
