@@ -40,6 +40,8 @@ If you have been unable to complete a test or chose not to appear, the score app
 {% include_relative nl_morning.html %}
 
 
+
+
 # ML2 : Evening Section
 All scores are scaled to a 100. 
 If you have been unable to complete a test or chose not to appear, the score appearing might be a zero. 
@@ -82,8 +84,6 @@ If you have been unable to complete a test or chose not to appear, the score app
 | Simon               | 53.2248677    | 27           | 44.7368421   | 45.7142857        | 33.3333333| 51.8518519  | 82          |
 | James Anderson      | 45.7619048    | 69.5         | 34.2105263   | 75.7142857        | 0         | 33.3333333  | 74          |
 | Enola               | 45.6084656    | 24           | 5.26315789   | 8.57142857        | 25        | 48.1481481  | 93          |
-
-
 
 
 {% include_relative nl_evening.html %}
